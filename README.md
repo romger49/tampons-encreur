@@ -3,7 +3,7 @@ Tampons Encreur réalisé avec le fab lab d'avrillé La Bricole Numérique
 
 recto
 
-![Coordonnée Romger Carton](/images/carteDeVisite2026-mirroir-1.svg "Coordonnée")
+![Coordonnée Romger Carton](/images/carteDeVisite-transparent.svg "Coordonnée")
 
 Verso
 
